@@ -1,1 +1,1 @@
-# linkedIn_jobPosting_Analysis
+# LinkedIn_JobPosting_Analysis
